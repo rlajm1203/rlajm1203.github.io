@@ -40,10 +40,10 @@
 
 기술이 발전하면서 다양한 분야에 정보기술이 결합해서 다양한 용어들이 생겨났다.
 
-    IT : Information Technology
-    IoT : Internet of Things
-    IIoT : Industrial Internet of Things
-    IoST : Internet of Small Things
+    IT : Information Technology → 정보기술
+    IoT : Internet of Things → 사물인터넷
+    IIoT : Industrial Internet of Things → 산업 사물인터넷
+    IoST : Internet of Small Things → 소(小)물인터넷
 
 인터넷이 발달하면서 산업에 필요한 장치들, 가전제품, 소규모 전자제품들도 인터넷에 연결된다.
 
