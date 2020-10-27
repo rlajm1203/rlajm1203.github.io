@@ -33,3 +33,16 @@
 ### 블록체인과 비트코인
 
 비트코인에서 쓰이는 블록체인기술은 여러가지 정보들이 블록을 형성해 체인처럼 연결되어 있어서 블록체인이라고 부른다.
+
+-------------------------
+
+### IT → IoT → IIoT → IoST
+
+기술이 발전하면서 다양한 분야에 정보기술이 결합해서 다양한 용어들이 생겨났다.
+
+    IT : Information Technology
+    IoT : Internet of Things
+    IIoT : Industrial Internet of Things
+    IoST : Internet of Small Things
+   
+---------------------------
